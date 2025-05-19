@@ -1,0 +1,7 @@
+Java Launcher: /Users/monkeydub/.gradle/jdks/eclipse_adoptium-21-x86_64-os_x.2/jdk-21.0.7+6/Contents/Home/bin/java
+Arguments: '--inJar, /Users/monkeydub/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.5-55.0.16/forge-1.21.5-55.0.16-injected.jar, --outJar, /Users/monkeydub/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.5-55.0.16_mapped_official_1.21.5/forge-1.21.5-55.0.16_mapped_official_1.21.5.jar, --logFile, accesstransform.log, --atFile, /Users/monkeydub/Documents/forge-mod/forge-1.21.5-55.0.16-mdk/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/monkeydub/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.1/accesstransformers-8.2.1-fatjar.jar
+Working directory: /Users/monkeydub/Documents/forge-mod/forge-1.21.5-55.0.16-mdk/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
