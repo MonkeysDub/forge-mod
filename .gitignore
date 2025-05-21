@@ -1,0 +1,16 @@
+.DS_Store
+*/.DS_Store
+.gradle/
+build/
+out/
+logs/
+run/
+saves/
+config/
+crash-reports/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.idea/
+
